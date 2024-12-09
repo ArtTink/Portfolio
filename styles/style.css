@@ -55,10 +55,6 @@ body{
     color: #000;
 }
 
-/*.paragrafo_destaque{
-    color: var(--cor-terciaria);
-}*/
-
 /* Estilos de apresentação */
 .apresentacao{
     padding: 6% 9% 9%;
@@ -327,7 +323,7 @@ body{
     }
 
     .cabecalho__menu__link{
-        font-size: 1rem;
+        font-size: 0.65rem;
     }
    
     .apresentacao{
@@ -363,4 +359,9 @@ body{
     .apresentacao__formacao{
         padding: 10% 0% 3% 11%;
     }
+
+    .apresentacao__links__link{
+        width: 120%;
+    }
+    
 }
